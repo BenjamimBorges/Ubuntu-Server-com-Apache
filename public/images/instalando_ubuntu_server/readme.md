@@ -1,1 +1,1 @@
-#readme hehehe
+fotos da instalação do ubuntu
