@@ -1,1 +1,0 @@
-configuração do dns
